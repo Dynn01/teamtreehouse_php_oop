@@ -15,7 +15,7 @@ class Fish {
         $this->flavor = $falvor;
         $this->record_weight = $record;
     }
-
+ 
     
 }
 
